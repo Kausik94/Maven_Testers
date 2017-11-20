@@ -33,7 +33,7 @@
         <configuration>
             <!-- Suite testng xml file to consider for test execution -->
             <suiteXmlFiles>
-                <suiteXmlFile>src/main/java/testng.xml</suiteXmlFile>
+                <suiteXmlFile>src/test/java/testng.xml</suiteXmlFile>
 
             </suiteXmlFiles>
         </configuration>
